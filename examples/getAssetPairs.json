@@ -1,0 +1,1804 @@
+{
+     "XXBTZCAD": {
+          "lot_multiplier": 1, 
+          "fee_volume_currency": "ZUSD", 
+          "quote": "ZCAD", 
+          "aclass_base": "currency", 
+          "fees": [
+               [
+                    0, 
+                    0.26
+               ], 
+               [
+                    10000, 
+                    0.24
+               ], 
+               [
+                    50000, 
+                    0.22
+               ], 
+               [
+                    100000, 
+                    0.2
+               ], 
+               [
+                    250000, 
+                    0.18
+               ], 
+               [
+                    500000, 
+                    0.16
+               ], 
+               [
+                    1000000, 
+                    0.14
+               ], 
+               [
+                    5000000, 
+                    0.12
+               ], 
+               [
+                    10000000, 
+                    0.1
+               ]
+          ], 
+          "margin_stop": 40, 
+          "fees_maker": [
+               [
+                    0, 
+                    0.16
+               ], 
+               [
+                    10000, 
+                    0.14
+               ], 
+               [
+                    50000, 
+                    0.12
+               ], 
+               [
+                    100000, 
+                    0.1
+               ], 
+               [
+                    250000, 
+                    0.08
+               ], 
+               [
+                    500000, 
+                    0.06
+               ], 
+               [
+                    1000000, 
+                    0.04
+               ], 
+               [
+                    5000000, 
+                    0.02
+               ], 
+               [
+                    10000000, 
+                    0
+               ]
+          ], 
+          "leverage_sell": [], 
+          "base": "XXBT", 
+          "leverage_buy": [], 
+          "lot": "unit", 
+          "altname": "XBTCAD", 
+          "lot_decimals": 8, 
+          "margin_call": 80, 
+          "aclass_quote": "currency", 
+          "pair_decimals": 5
+     }, 
+     "XXBTZEUR.d": {
+          "lot_multiplier": 1, 
+          "fee_volume_currency": "ZUSD", 
+          "quote": "ZEUR", 
+          "aclass_base": "currency", 
+          "fees": [
+               [
+                    0, 
+                    0.36
+               ], 
+               [
+                    10000, 
+                    0.34
+               ], 
+               [
+                    50000, 
+                    0.32
+               ], 
+               [
+                    100000, 
+                    0.3
+               ], 
+               [
+                    250000, 
+                    0.28
+               ], 
+               [
+                    500000, 
+                    0.26
+               ], 
+               [
+                    1000000, 
+                    0.24
+               ], 
+               [
+                    5000000, 
+                    0.22
+               ], 
+               [
+                    10000000, 
+                    0.2
+               ]
+          ], 
+          "margin_stop": 40, 
+          "leverage_sell": [], 
+          "base": "XXBT", 
+          "leverage_buy": [], 
+          "lot": "unit", 
+          "altname": "XBTEUR.d", 
+          "lot_decimals": 8, 
+          "margin_call": 80, 
+          "aclass_quote": "currency", 
+          "pair_decimals": 5
+     }, 
+     "XETHZUSD": {
+          "lot_multiplier": 1, 
+          "fee_volume_currency": "ZUSD", 
+          "quote": "ZUSD", 
+          "aclass_base": "currency", 
+          "fees": [
+               [
+                    0, 
+                    0.26
+               ], 
+               [
+                    10000, 
+                    0.24
+               ], 
+               [
+                    50000, 
+                    0.22
+               ], 
+               [
+                    100000, 
+                    0.2
+               ], 
+               [
+                    250000, 
+                    0.18
+               ], 
+               [
+                    500000, 
+                    0.16
+               ], 
+               [
+                    1000000, 
+                    0.14
+               ], 
+               [
+                    5000000, 
+                    0.12
+               ], 
+               [
+                    10000000, 
+                    0.1
+               ]
+          ], 
+          "margin_stop": 40, 
+          "fees_maker": [
+               [
+                    0, 
+                    0.16
+               ], 
+               [
+                    10000, 
+                    0.14
+               ], 
+               [
+                    50000, 
+                    0.12
+               ], 
+               [
+                    100000, 
+                    0.1
+               ], 
+               [
+                    250000, 
+                    0.08
+               ], 
+               [
+                    500000, 
+                    0.06
+               ], 
+               [
+                    1000000, 
+                    0.04
+               ], 
+               [
+                    5000000, 
+                    0.02
+               ], 
+               [
+                    10000000, 
+                    0
+               ]
+          ], 
+          "leverage_sell": [], 
+          "base": "XETH", 
+          "leverage_buy": [], 
+          "lot": "unit", 
+          "altname": "ETHUSD", 
+          "lot_decimals": 8, 
+          "margin_call": 80, 
+          "aclass_quote": "currency", 
+          "pair_decimals": 5
+     }, 
+     "XXBTXXDG": {
+          "lot_multiplier": 1, 
+          "fee_volume_currency": "ZUSD", 
+          "quote": "XXDG", 
+          "aclass_base": "currency", 
+          "fees": [
+               [
+                    0, 
+                    0.1
+               ], 
+               [
+                    10000, 
+                    0.09
+               ], 
+               [
+                    50000, 
+                    0.08
+               ], 
+               [
+                    100000, 
+                    0.07
+               ], 
+               [
+                    500000, 
+                    0.06
+               ], 
+               [
+                    1000000, 
+                    0.05
+               ]
+          ], 
+          "margin_stop": 40, 
+          "fees_maker": [
+               [
+                    0, 
+                    0.05
+               ], 
+               [
+                    10000, 
+                    0.04
+               ], 
+               [
+                    50000, 
+                    0.03
+               ], 
+               [
+                    100000, 
+                    0.02
+               ], 
+               [
+                    500000, 
+                    0.01
+               ], 
+               [
+                    1000000, 
+                    0
+               ]
+          ], 
+          "leverage_sell": [], 
+          "base": "XXBT", 
+          "leverage_buy": [], 
+          "lot": "unit", 
+          "altname": "XBTXDG", 
+          "lot_decimals": 8, 
+          "margin_call": 80, 
+          "aclass_quote": "currency", 
+          "pair_decimals": 1
+     }, 
+     "XETHZJPY": {
+          "lot_multiplier": 1, 
+          "fee_volume_currency": "ZUSD", 
+          "quote": "ZJPY", 
+          "aclass_base": "currency", 
+          "fees": [
+               [
+                    0, 
+                    0.26
+               ], 
+               [
+                    10000, 
+                    0.24
+               ], 
+               [
+                    50000, 
+                    0.22
+               ], 
+               [
+                    100000, 
+                    0.2
+               ], 
+               [
+                    250000, 
+                    0.18
+               ], 
+               [
+                    500000, 
+                    0.16
+               ], 
+               [
+                    1000000, 
+                    0.14
+               ], 
+               [
+                    5000000, 
+                    0.12
+               ], 
+               [
+                    10000000, 
+                    0.1
+               ]
+          ], 
+          "margin_stop": 40, 
+          "fees_maker": [
+               [
+                    0, 
+                    0.16
+               ], 
+               [
+                    10000, 
+                    0.14
+               ], 
+               [
+                    50000, 
+                    0.12
+               ], 
+               [
+                    100000, 
+                    0.1
+               ], 
+               [
+                    250000, 
+                    0.08
+               ], 
+               [
+                    500000, 
+                    0.06
+               ], 
+               [
+                    1000000, 
+                    0.04
+               ], 
+               [
+                    5000000, 
+                    0.02
+               ], 
+               [
+                    10000000, 
+                    0
+               ]
+          ], 
+          "leverage_sell": [], 
+          "base": "XETH", 
+          "leverage_buy": [], 
+          "lot": "unit", 
+          "altname": "ETHJPY", 
+          "lot_decimals": 8, 
+          "margin_call": 80, 
+          "aclass_quote": "currency", 
+          "pair_decimals": 5
+     }, 
+     "XXBTXXLM": {
+          "lot_multiplier": 1, 
+          "fee_volume_currency": "ZUSD", 
+          "quote": "XXLM", 
+          "aclass_base": "currency", 
+          "fees": [
+               [
+                    0, 
+                    0.1
+               ], 
+               [
+                    10000, 
+                    0.09
+               ], 
+               [
+                    50000, 
+                    0.08
+               ], 
+               [
+                    100000, 
+                    0.07
+               ], 
+               [
+                    500000, 
+                    0.06
+               ], 
+               [
+                    1000000, 
+                    0.05
+               ]
+          ], 
+          "margin_stop": 40, 
+          "fees_maker": [
+               [
+                    0, 
+                    0.05
+               ], 
+               [
+                    10000, 
+                    0.04
+               ], 
+               [
+                    50000, 
+                    0.03
+               ], 
+               [
+                    100000, 
+                    0.02
+               ], 
+               [
+                    500000, 
+                    0.01
+               ], 
+               [
+                    1000000, 
+                    0
+               ]
+          ], 
+          "leverage_sell": [], 
+          "base": "XXBT", 
+          "leverage_buy": [], 
+          "lot": "unit", 
+          "altname": "XBTXLM", 
+          "lot_decimals": 8, 
+          "margin_call": 80, 
+          "aclass_quote": "currency", 
+          "pair_decimals": 3
+     }, 
+     "XXBTZJPY.d": {
+          "lot_multiplier": 1, 
+          "fee_volume_currency": "ZUSD", 
+          "quote": "ZJPY", 
+          "aclass_base": "currency", 
+          "fees": [
+               [
+                    0, 
+                    0.36
+               ], 
+               [
+                    10000, 
+                    0.34
+               ], 
+               [
+                    50000, 
+                    0.32
+               ], 
+               [
+                    100000, 
+                    0.3
+               ], 
+               [
+                    250000, 
+                    0.28
+               ], 
+               [
+                    500000, 
+                    0.26
+               ], 
+               [
+                    1000000, 
+                    0.24
+               ], 
+               [
+                    5000000, 
+                    0.22
+               ], 
+               [
+                    10000000, 
+                    0.2
+               ]
+          ], 
+          "margin_stop": 40, 
+          "leverage_sell": [], 
+          "base": "XXBT", 
+          "leverage_buy": [], 
+          "lot": "unit", 
+          "altname": "XBTJPY.d", 
+          "lot_decimals": 8, 
+          "margin_call": 80, 
+          "aclass_quote": "currency", 
+          "pair_decimals": 3
+     }, 
+     "XXBTXXRP": {
+          "lot_multiplier": 1, 
+          "fee_volume_currency": "ZUSD", 
+          "quote": "XXRP", 
+          "aclass_base": "currency", 
+          "fees": [
+               [
+                    0, 
+                    0.1
+               ], 
+               [
+                    10000, 
+                    0.09
+               ], 
+               [
+                    50000, 
+                    0.08
+               ], 
+               [
+                    100000, 
+                    0.07
+               ], 
+               [
+                    500000, 
+                    0.06
+               ], 
+               [
+                    1000000, 
+                    0.05
+               ]
+          ], 
+          "margin_stop": 40, 
+          "fees_maker": [
+               [
+                    0, 
+                    0.05
+               ], 
+               [
+                    10000, 
+                    0.04
+               ], 
+               [
+                    50000, 
+                    0.03
+               ], 
+               [
+                    100000, 
+                    0.02
+               ], 
+               [
+                    500000, 
+                    0.01
+               ], 
+               [
+                    1000000, 
+                    0
+               ]
+          ], 
+          "leverage_sell": [], 
+          "base": "XXBT", 
+          "leverage_buy": [], 
+          "lot": "unit", 
+          "altname": "XBTXRP", 
+          "lot_decimals": 8, 
+          "margin_call": 80, 
+          "aclass_quote": "currency", 
+          "pair_decimals": 3
+     }, 
+     "XXBTZEUR": {
+          "lot_multiplier": 1, 
+          "fee_volume_currency": "ZUSD", 
+          "quote": "ZEUR", 
+          "aclass_base": "currency", 
+          "fees": [
+               [
+                    0, 
+                    0.26
+               ], 
+               [
+                    10000, 
+                    0.24
+               ], 
+               [
+                    50000, 
+                    0.22
+               ], 
+               [
+                    100000, 
+                    0.2
+               ], 
+               [
+                    250000, 
+                    0.18
+               ], 
+               [
+                    500000, 
+                    0.16
+               ], 
+               [
+                    1000000, 
+                    0.14
+               ], 
+               [
+                    5000000, 
+                    0.12
+               ], 
+               [
+                    10000000, 
+                    0.1
+               ]
+          ], 
+          "margin_stop": 40, 
+          "fees_maker": [
+               [
+                    0, 
+                    0.16
+               ], 
+               [
+                    10000, 
+                    0.14
+               ], 
+               [
+                    50000, 
+                    0.12
+               ], 
+               [
+                    100000, 
+                    0.1
+               ], 
+               [
+                    250000, 
+                    0.08
+               ], 
+               [
+                    500000, 
+                    0.06
+               ], 
+               [
+                    1000000, 
+                    0.04
+               ], 
+               [
+                    5000000, 
+                    0.02
+               ], 
+               [
+                    10000000, 
+                    0
+               ]
+          ], 
+          "leverage_sell": [
+               1.5, 
+               2, 
+               2.5, 
+               3, 
+               5
+          ], 
+          "base": "XXBT", 
+          "leverage_buy": [
+               1.5, 
+               2, 
+               2.5, 
+               3, 
+               5
+          ], 
+          "lot": "unit", 
+          "altname": "XBTEUR", 
+          "lot_decimals": 8, 
+          "margin_call": 80, 
+          "aclass_quote": "currency", 
+          "pair_decimals": 5
+     }, 
+     "XXBTZGBP": {
+          "lot_multiplier": 1, 
+          "fee_volume_currency": "ZUSD", 
+          "quote": "ZGBP", 
+          "aclass_base": "currency", 
+          "fees": [
+               [
+                    0, 
+                    0.26
+               ], 
+               [
+                    10000, 
+                    0.24
+               ], 
+               [
+                    50000, 
+                    0.22
+               ], 
+               [
+                    100000, 
+                    0.2
+               ], 
+               [
+                    250000, 
+                    0.18
+               ], 
+               [
+                    500000, 
+                    0.16
+               ], 
+               [
+                    1000000, 
+                    0.14
+               ], 
+               [
+                    5000000, 
+                    0.12
+               ], 
+               [
+                    10000000, 
+                    0.1
+               ]
+          ], 
+          "margin_stop": 40, 
+          "fees_maker": [
+               [
+                    0, 
+                    0.16
+               ], 
+               [
+                    10000, 
+                    0.14
+               ], 
+               [
+                    50000, 
+                    0.12
+               ], 
+               [
+                    100000, 
+                    0.1
+               ], 
+               [
+                    250000, 
+                    0.08
+               ], 
+               [
+                    500000, 
+                    0.06
+               ], 
+               [
+                    1000000, 
+                    0.04
+               ], 
+               [
+                    5000000, 
+                    0.02
+               ], 
+               [
+                    10000000, 
+                    0
+               ]
+          ], 
+          "leverage_sell": [], 
+          "base": "XXBT", 
+          "leverage_buy": [], 
+          "lot": "unit", 
+          "altname": "XBTGBP", 
+          "lot_decimals": 8, 
+          "margin_call": 80, 
+          "aclass_quote": "currency", 
+          "pair_decimals": 5
+     }, 
+     "XETHXXBT": {
+          "lot_multiplier": 1, 
+          "fee_volume_currency": "ZUSD", 
+          "quote": "XXBT", 
+          "aclass_base": "currency", 
+          "fees": [
+               [
+                    0, 
+                    0.1
+               ], 
+               [
+                    10000, 
+                    0.09
+               ], 
+               [
+                    50000, 
+                    0.08
+               ], 
+               [
+                    100000, 
+                    0.07
+               ], 
+               [
+                    500000, 
+                    0.06
+               ], 
+               [
+                    1000000, 
+                    0.05
+               ]
+          ], 
+          "margin_stop": 40, 
+          "fees_maker": [
+               [
+                    0, 
+                    0.05
+               ], 
+               [
+                    10000, 
+                    0.04
+               ], 
+               [
+                    50000, 
+                    0.03
+               ], 
+               [
+                    100000, 
+                    0.02
+               ], 
+               [
+                    500000, 
+                    0.01
+               ], 
+               [
+                    1000000, 
+                    0
+               ]
+          ], 
+          "leverage_sell": [
+               1.5, 
+               2, 
+               2.5
+          ], 
+          "base": "XETH", 
+          "leverage_buy": [
+               1.5, 
+               2, 
+               2.5
+          ], 
+          "lot": "unit", 
+          "altname": "ETHXBT", 
+          "lot_decimals": 8, 
+          "margin_call": 80, 
+          "aclass_quote": "currency", 
+          "pair_decimals": 5
+     }, 
+     "XLTCZUSD": {
+          "lot_multiplier": 1, 
+          "fee_volume_currency": "ZUSD", 
+          "quote": "ZUSD", 
+          "aclass_base": "currency", 
+          "fees": [
+               [
+                    0, 
+                    0.26
+               ], 
+               [
+                    10000, 
+                    0.24
+               ], 
+               [
+                    50000, 
+                    0.22
+               ], 
+               [
+                    100000, 
+                    0.2
+               ], 
+               [
+                    250000, 
+                    0.18
+               ], 
+               [
+                    500000, 
+                    0.16
+               ], 
+               [
+                    1000000, 
+                    0.14
+               ], 
+               [
+                    5000000, 
+                    0.12
+               ], 
+               [
+                    10000000, 
+                    0.1
+               ]
+          ], 
+          "margin_stop": 40, 
+          "fees_maker": [
+               [
+                    0, 
+                    0.16
+               ], 
+               [
+                    10000, 
+                    0.14
+               ], 
+               [
+                    50000, 
+                    0.12
+               ], 
+               [
+                    100000, 
+                    0.1
+               ], 
+               [
+                    250000, 
+                    0.08
+               ], 
+               [
+                    500000, 
+                    0.06
+               ], 
+               [
+                    1000000, 
+                    0.04
+               ], 
+               [
+                    5000000, 
+                    0.02
+               ], 
+               [
+                    10000000, 
+                    0
+               ]
+          ], 
+          "leverage_sell": [], 
+          "base": "XLTC", 
+          "leverage_buy": [], 
+          "lot": "unit", 
+          "altname": "LTCUSD", 
+          "lot_decimals": 8, 
+          "margin_call": 80, 
+          "aclass_quote": "currency", 
+          "pair_decimals": 5
+     }, 
+     "XXBTXLTC": {
+          "lot_multiplier": 1, 
+          "fee_volume_currency": "ZUSD", 
+          "quote": "XLTC", 
+          "aclass_base": "currency", 
+          "fees": [
+               [
+                    0, 
+                    0.1
+               ], 
+               [
+                    10000, 
+                    0.09
+               ], 
+               [
+                    50000, 
+                    0.08
+               ], 
+               [
+                    100000, 
+                    0.07
+               ], 
+               [
+                    500000, 
+                    0.06
+               ], 
+               [
+                    1000000, 
+                    0.05
+               ]
+          ], 
+          "margin_stop": 40, 
+          "fees_maker": [
+               [
+                    0, 
+                    0.05
+               ], 
+               [
+                    10000, 
+                    0.04
+               ], 
+               [
+                    50000, 
+                    0.03
+               ], 
+               [
+                    100000, 
+                    0.02
+               ], 
+               [
+                    500000, 
+                    0.01
+               ], 
+               [
+                    1000000, 
+                    0
+               ]
+          ], 
+          "leverage_sell": [], 
+          "base": "XXBT", 
+          "leverage_buy": [], 
+          "lot": "unit", 
+          "altname": "XBTLTC", 
+          "lot_decimals": 8, 
+          "margin_call": 80, 
+          "aclass_quote": "currency", 
+          "pair_decimals": 5
+     }, 
+     "XXBTZUSD.d": {
+          "lot_multiplier": 1, 
+          "fee_volume_currency": "ZUSD", 
+          "quote": "ZUSD", 
+          "aclass_base": "currency", 
+          "fees": [
+               [
+                    0, 
+                    0.36
+               ], 
+               [
+                    10000, 
+                    0.34
+               ], 
+               [
+                    50000, 
+                    0.32
+               ], 
+               [
+                    100000, 
+                    0.3
+               ], 
+               [
+                    250000, 
+                    0.28
+               ], 
+               [
+                    500000, 
+                    0.26
+               ], 
+               [
+                    1000000, 
+                    0.24
+               ], 
+               [
+                    5000000, 
+                    0.22
+               ], 
+               [
+                    10000000, 
+                    0.2
+               ]
+          ], 
+          "margin_stop": 40, 
+          "leverage_sell": [], 
+          "base": "XXBT", 
+          "leverage_buy": [], 
+          "lot": "unit", 
+          "altname": "XBTUSD.d", 
+          "lot_decimals": 8, 
+          "margin_call": 80, 
+          "aclass_quote": "currency", 
+          "pair_decimals": 5
+     }, 
+     "XETHZGBP": {
+          "lot_multiplier": 1, 
+          "fee_volume_currency": "ZUSD", 
+          "quote": "ZGBP", 
+          "aclass_base": "currency", 
+          "fees": [
+               [
+                    0, 
+                    0.26
+               ], 
+               [
+                    10000, 
+                    0.24
+               ], 
+               [
+                    50000, 
+                    0.22
+               ], 
+               [
+                    100000, 
+                    0.2
+               ], 
+               [
+                    250000, 
+                    0.18
+               ], 
+               [
+                    500000, 
+                    0.16
+               ], 
+               [
+                    1000000, 
+                    0.14
+               ], 
+               [
+                    5000000, 
+                    0.12
+               ], 
+               [
+                    10000000, 
+                    0.1
+               ]
+          ], 
+          "margin_stop": 40, 
+          "fees_maker": [
+               [
+                    0, 
+                    0.16
+               ], 
+               [
+                    10000, 
+                    0.14
+               ], 
+               [
+                    50000, 
+                    0.12
+               ], 
+               [
+                    100000, 
+                    0.1
+               ], 
+               [
+                    250000, 
+                    0.08
+               ], 
+               [
+                    500000, 
+                    0.06
+               ], 
+               [
+                    1000000, 
+                    0.04
+               ], 
+               [
+                    5000000, 
+                    0.02
+               ], 
+               [
+                    10000000, 
+                    0
+               ]
+          ], 
+          "leverage_sell": [], 
+          "base": "XETH", 
+          "leverage_buy": [], 
+          "lot": "unit", 
+          "altname": "ETHGBP", 
+          "lot_decimals": 8, 
+          "margin_call": 80, 
+          "aclass_quote": "currency", 
+          "pair_decimals": 5
+     }, 
+     "XXBTZGBP.d": {
+          "lot_multiplier": 1, 
+          "fee_volume_currency": "ZUSD", 
+          "quote": "ZGBP", 
+          "aclass_base": "currency", 
+          "fees": [
+               [
+                    0, 
+                    0.36
+               ], 
+               [
+                    10000, 
+                    0.34
+               ], 
+               [
+                    50000, 
+                    0.32
+               ], 
+               [
+                    100000, 
+                    0.3
+               ], 
+               [
+                    250000, 
+                    0.28
+               ], 
+               [
+                    500000, 
+                    0.26
+               ], 
+               [
+                    1000000, 
+                    0.24
+               ], 
+               [
+                    5000000, 
+                    0.22
+               ], 
+               [
+                    10000000, 
+                    0.2
+               ]
+          ], 
+          "margin_stop": 40, 
+          "leverage_sell": [], 
+          "base": "XXBT", 
+          "leverage_buy": [], 
+          "lot": "unit", 
+          "altname": "XBTGBP.d", 
+          "lot_decimals": 8, 
+          "margin_call": 80, 
+          "aclass_quote": "currency", 
+          "pair_decimals": 5
+     }, 
+     "XLTCZEUR": {
+          "lot_multiplier": 1, 
+          "fee_volume_currency": "ZUSD", 
+          "quote": "ZEUR", 
+          "aclass_base": "currency", 
+          "fees": [
+               [
+                    0, 
+                    0.26
+               ], 
+               [
+                    10000, 
+                    0.24
+               ], 
+               [
+                    50000, 
+                    0.22
+               ], 
+               [
+                    100000, 
+                    0.2
+               ], 
+               [
+                    250000, 
+                    0.18
+               ], 
+               [
+                    500000, 
+                    0.16
+               ], 
+               [
+                    1000000, 
+                    0.14
+               ], 
+               [
+                    5000000, 
+                    0.12
+               ], 
+               [
+                    10000000, 
+                    0.1
+               ]
+          ], 
+          "margin_stop": 40, 
+          "fees_maker": [
+               [
+                    0, 
+                    0.16
+               ], 
+               [
+                    10000, 
+                    0.14
+               ], 
+               [
+                    50000, 
+                    0.12
+               ], 
+               [
+                    100000, 
+                    0.1
+               ], 
+               [
+                    250000, 
+                    0.08
+               ], 
+               [
+                    500000, 
+                    0.06
+               ], 
+               [
+                    1000000, 
+                    0.04
+               ], 
+               [
+                    5000000, 
+                    0.02
+               ], 
+               [
+                    10000000, 
+                    0
+               ]
+          ], 
+          "leverage_sell": [], 
+          "base": "XLTC", 
+          "leverage_buy": [], 
+          "lot": "unit", 
+          "altname": "LTCEUR", 
+          "lot_decimals": 8, 
+          "margin_call": 80, 
+          "aclass_quote": "currency", 
+          "pair_decimals": 5
+     }, 
+     "XETHZCAD": {
+          "lot_multiplier": 1, 
+          "fee_volume_currency": "ZUSD", 
+          "quote": "ZCAD", 
+          "aclass_base": "currency", 
+          "fees": [
+               [
+                    0, 
+                    0.26
+               ], 
+               [
+                    10000, 
+                    0.24
+               ], 
+               [
+                    50000, 
+                    0.22
+               ], 
+               [
+                    100000, 
+                    0.2
+               ], 
+               [
+                    250000, 
+                    0.18
+               ], 
+               [
+                    500000, 
+                    0.16
+               ], 
+               [
+                    1000000, 
+                    0.14
+               ], 
+               [
+                    5000000, 
+                    0.12
+               ], 
+               [
+                    10000000, 
+                    0.1
+               ]
+          ], 
+          "margin_stop": 40, 
+          "fees_maker": [
+               [
+                    0, 
+                    0.16
+               ], 
+               [
+                    10000, 
+                    0.14
+               ], 
+               [
+                    50000, 
+                    0.12
+               ], 
+               [
+                    100000, 
+                    0.1
+               ], 
+               [
+                    250000, 
+                    0.08
+               ], 
+               [
+                    500000, 
+                    0.06
+               ], 
+               [
+                    1000000, 
+                    0.04
+               ], 
+               [
+                    5000000, 
+                    0.02
+               ], 
+               [
+                    10000000, 
+                    0
+               ]
+          ], 
+          "leverage_sell": [], 
+          "base": "XETH", 
+          "leverage_buy": [], 
+          "lot": "unit", 
+          "altname": "ETHCAD", 
+          "lot_decimals": 8, 
+          "margin_call": 80, 
+          "aclass_quote": "currency", 
+          "pair_decimals": 5
+     }, 
+     "XXBTZCAD.d": {
+          "lot_multiplier": 1, 
+          "fee_volume_currency": "ZUSD", 
+          "quote": "ZCAD", 
+          "aclass_base": "currency", 
+          "fees": [
+               [
+                    0, 
+                    0.36
+               ], 
+               [
+                    10000, 
+                    0.34
+               ], 
+               [
+                    50000, 
+                    0.32
+               ], 
+               [
+                    100000, 
+                    0.3
+               ], 
+               [
+                    250000, 
+                    0.28
+               ], 
+               [
+                    500000, 
+                    0.26
+               ], 
+               [
+                    1000000, 
+                    0.24
+               ], 
+               [
+                    5000000, 
+                    0.22
+               ], 
+               [
+                    10000000, 
+                    0.2
+               ]
+          ], 
+          "margin_stop": 40, 
+          "leverage_sell": [], 
+          "base": "XXBT", 
+          "leverage_buy": [], 
+          "lot": "unit", 
+          "altname": "XBTCAD.d", 
+          "lot_decimals": 8, 
+          "margin_call": 80, 
+          "aclass_quote": "currency", 
+          "pair_decimals": 5
+     }, 
+     "XXBTZJPY": {
+          "lot_multiplier": 1, 
+          "fee_volume_currency": "ZUSD", 
+          "quote": "ZJPY", 
+          "aclass_base": "currency", 
+          "fees": [
+               [
+                    0, 
+                    0.26
+               ], 
+               [
+                    10000, 
+                    0.24
+               ], 
+               [
+                    50000, 
+                    0.22
+               ], 
+               [
+                    100000, 
+                    0.2
+               ], 
+               [
+                    250000, 
+                    0.18
+               ], 
+               [
+                    500000, 
+                    0.16
+               ], 
+               [
+                    1000000, 
+                    0.14
+               ], 
+               [
+                    5000000, 
+                    0.12
+               ], 
+               [
+                    10000000, 
+                    0.1
+               ]
+          ], 
+          "margin_stop": 40, 
+          "fees_maker": [
+               [
+                    0, 
+                    0.16
+               ], 
+               [
+                    10000, 
+                    0.14
+               ], 
+               [
+                    50000, 
+                    0.12
+               ], 
+               [
+                    100000, 
+                    0.1
+               ], 
+               [
+                    250000, 
+                    0.08
+               ], 
+               [
+                    500000, 
+                    0.06
+               ], 
+               [
+                    1000000, 
+                    0.04
+               ], 
+               [
+                    5000000, 
+                    0.02
+               ], 
+               [
+                    10000000, 
+                    0
+               ]
+          ], 
+          "leverage_sell": [], 
+          "base": "XXBT", 
+          "leverage_buy": [], 
+          "lot": "unit", 
+          "altname": "XBTJPY", 
+          "lot_decimals": 8, 
+          "margin_call": 80, 
+          "aclass_quote": "currency", 
+          "pair_decimals": 3
+     }, 
+     "XETHZEUR": {
+          "lot_multiplier": 1, 
+          "fee_volume_currency": "ZUSD", 
+          "quote": "ZEUR", 
+          "aclass_base": "currency", 
+          "fees": [
+               [
+                    0, 
+                    0.26
+               ], 
+               [
+                    10000, 
+                    0.24
+               ], 
+               [
+                    50000, 
+                    0.22
+               ], 
+               [
+                    100000, 
+                    0.2
+               ], 
+               [
+                    250000, 
+                    0.18
+               ], 
+               [
+                    500000, 
+                    0.16
+               ], 
+               [
+                    1000000, 
+                    0.14
+               ], 
+               [
+                    5000000, 
+                    0.12
+               ], 
+               [
+                    10000000, 
+                    0.1
+               ]
+          ], 
+          "margin_stop": 40, 
+          "fees_maker": [
+               [
+                    0, 
+                    0.16
+               ], 
+               [
+                    10000, 
+                    0.14
+               ], 
+               [
+                    50000, 
+                    0.12
+               ], 
+               [
+                    100000, 
+                    0.1
+               ], 
+               [
+                    250000, 
+                    0.08
+               ], 
+               [
+                    500000, 
+                    0.06
+               ], 
+               [
+                    1000000, 
+                    0.04
+               ], 
+               [
+                    5000000, 
+                    0.02
+               ], 
+               [
+                    10000000, 
+                    0
+               ]
+          ], 
+          "leverage_sell": [], 
+          "base": "XETH", 
+          "leverage_buy": [], 
+          "lot": "unit", 
+          "altname": "ETHEUR", 
+          "lot_decimals": 8, 
+          "margin_call": 80, 
+          "aclass_quote": "currency", 
+          "pair_decimals": 5
+     }, 
+     "XXBTXNMC": {
+          "lot_multiplier": 1, 
+          "fee_volume_currency": "ZUSD", 
+          "quote": "XNMC", 
+          "aclass_base": "currency", 
+          "fees": [
+               [
+                    0, 
+                    0.1
+               ], 
+               [
+                    10000, 
+                    0.09
+               ], 
+               [
+                    50000, 
+                    0.08
+               ], 
+               [
+                    100000, 
+                    0.07
+               ], 
+               [
+                    500000, 
+                    0.06
+               ], 
+               [
+                    1000000, 
+                    0.05
+               ]
+          ], 
+          "margin_stop": 40, 
+          "fees_maker": [
+               [
+                    0, 
+                    0.05
+               ], 
+               [
+                    10000, 
+                    0.04
+               ], 
+               [
+                    50000, 
+                    0.03
+               ], 
+               [
+                    100000, 
+                    0.02
+               ], 
+               [
+                    500000, 
+                    0.01
+               ], 
+               [
+                    1000000, 
+                    0
+               ]
+          ], 
+          "leverage_sell": [], 
+          "base": "XXBT", 
+          "leverage_buy": [], 
+          "lot": "unit", 
+          "altname": "XBTNMC", 
+          "lot_decimals": 8, 
+          "margin_call": 80, 
+          "aclass_quote": "currency", 
+          "pair_decimals": 5
+     }, 
+     "XXBTZUSD": {
+          "lot_multiplier": 1, 
+          "fee_volume_currency": "ZUSD", 
+          "quote": "ZUSD", 
+          "aclass_base": "currency", 
+          "fees": [
+               [
+                    0, 
+                    0.26
+               ], 
+               [
+                    10000, 
+                    0.24
+               ], 
+               [
+                    50000, 
+                    0.22
+               ], 
+               [
+                    100000, 
+                    0.2
+               ], 
+               [
+                    250000, 
+                    0.18
+               ], 
+               [
+                    500000, 
+                    0.16
+               ], 
+               [
+                    1000000, 
+                    0.14
+               ], 
+               [
+                    5000000, 
+                    0.12
+               ], 
+               [
+                    10000000, 
+                    0.1
+               ]
+          ], 
+          "margin_stop": 40, 
+          "fees_maker": [
+               [
+                    0, 
+                    0.16
+               ], 
+               [
+                    10000, 
+                    0.14
+               ], 
+               [
+                    50000, 
+                    0.12
+               ], 
+               [
+                    100000, 
+                    0.1
+               ], 
+               [
+                    250000, 
+                    0.08
+               ], 
+               [
+                    500000, 
+                    0.06
+               ], 
+               [
+                    1000000, 
+                    0.04
+               ], 
+               [
+                    5000000, 
+                    0.02
+               ], 
+               [
+                    10000000, 
+                    0
+               ]
+          ], 
+          "leverage_sell": [], 
+          "base": "XXBT", 
+          "leverage_buy": [], 
+          "lot": "unit", 
+          "altname": "XBTUSD", 
+          "lot_decimals": 8, 
+          "margin_call": 80, 
+          "aclass_quote": "currency", 
+          "pair_decimals": 5
+     }
+}
