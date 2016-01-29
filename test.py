@@ -1,4 +1,7 @@
 import kraken
 
 k = kraken.Kraken()
-print k.getTicker()
+pairs = k.getAssetPairs()
+ticker = k.getTicker()
+orderbook = k.getOrderBook()
+trades = k.getRecentTrades()

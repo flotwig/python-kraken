@@ -1,19 +1,41 @@
 import json, urllib2
+from urllib import urlencode
 
 class Kraken:
-	#I need three functions, one for each to retrieve Ticker, OrderBook, and Trades, and each of these functions must return an array or dict with infomration for all assets. 
-	#From the page: https://www.kraken.com/help/api, please check the parts: Get ticker information,Get order book, Get recent trades. There you will find some more information on what kind of data you will return. 
-	#Tip: In order to get all assets you will need to write a function that gets all assets pairs, so for that you will need as well to look at Get tradable asset pair from the api page above.
 	API_BASE = 'https://api.kraken.com/0/public/'
+	def __init__(self):
+		self.pairs = self.getAssetPairs()
 	def getAssetPairs(self):
-		return self.query('AssetPairs')
+		if hasattr(self,'pairs'):
+			return self.pairs
+		else:
+			return self.query('AssetPairs')
+	def getAssetPair(self,name):
+		return self.pairs.get(name)
 	def getAssetPairsNameString(self):
-		return ','.join(self.getAssetPairs().keys())
+		return ','.join(filter(lambda pair: pair[-2]!='.',self.pairs.keys()))
 	def getTicker(self):
-		return self.query('Ticker',{'pair':self.getAssetPairsNameString()})
-	def query(self,endpoint, arguments=[]):
-		result = json.load(urllib2.urlopen(self.API_BASE + endpoint))
+		return self.joinPairs(self.query('Ticker',{'pair':self.getAssetPairsNameString()}))
+	def getOrderBook(self):
+		book = {}
+		for pair in self.pairs:
+			if(pair[-2] != '.'):
+				book[pair] = self.query('Depth',{'pair':pair})
+		return self.joinPairs(book)
+	def getRecentTrades(self):
+		trades = {}
+		for pair in self.pairs:
+			if(pair[-2] != '.'):
+				trades[pair] = self.query('Trades',{'pair':pair})
+		return self.joinPairs(trades)
+	def joinPairs(self,result):
+		for rkey in result.keys():
+			result[rkey]['asset'] = self.pairs[rkey]
+		return result
+	def query(self,endpoint, arguments={}):
+		url = self.API_BASE + endpoint
+		result = json.load(urllib2.urlopen(url,urlencode(arguments)))
 		if 'result' not in result.keys():
-			raise Exception, result['error']
+			raise Exception(result['error'])
 		else:
 			return result['result']
