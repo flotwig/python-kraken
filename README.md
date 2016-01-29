@@ -9,4 +9,4 @@ k = Kraken()
 trades = k.getRecentTrades()
 ```
 
-All methods are documented in kraken.py and have example output in JSON format in [examples](examples/).
+All methods are documented in [kraken.py](kraken.py) and have example output in JSON format in [examples](examples/).
